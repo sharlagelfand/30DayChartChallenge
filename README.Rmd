@@ -1,0 +1,19 @@
+---
+output: github_document
+---
+
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE
+)
+```
+
+# 30 Day Chart Challenge
+
+## Day 1: Part-to-whole
+
+```{r}
+knitr::include_graphics("01-part-to-whole/part-to-whole.png")
+```
+

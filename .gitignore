@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+01-part-to-whole/00-clean_data.R
+01-part-to-whole/toggl_march.csv
