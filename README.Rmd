@@ -23,3 +23,14 @@ knitr::include_graphics("01-part-to-whole/part-to-whole.png")
 knitr::include_graphics("02-pictogram/pictogram.png")
 ```
 
+## Day 5: Slope
+
+```{r, fig.alt = "A line chart showing the cumulative number of downloads of the opendatatoronto package from CRAN/ The data starts on october 28 2019 with 4 downloads and ends on April 5 2021 with 13572 downloads. in the middle there is a large jump labelled 'the u of t' effect. the line in the chart is a dark yellow and made in R but the annotations and labels are all hand drawn in black. the background of the chart is white with black dotted grid lines. The data is here: https://github.com/sharlagelfand/30DayChartChallenge/blob/main/05-slope/data.csv"}
+knitr::include_graphics("05-slope/slope.jpg")
+```
+
+## Day 6: Experimental
+
+```{r, fig.alt = "A randomly generated tree with thousands of branches. The trunk of the tree starts on the right and bends heavily to the left. it is coloured in various shades of teal to light green to light yellow with a dark teal background"}
+knitr::include_graphics("06-experimental/experimental.png")
+```

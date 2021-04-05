@@ -13,3 +13,4 @@ ggplot() +
   theme_void()
 
 ggsave(here::here("05-slope", "slope-bare.png"), bg = "transparent")
+readr::write_csv(downloads_cumulative %>% select(-package), here::here("05-slope", "data.csv"))
