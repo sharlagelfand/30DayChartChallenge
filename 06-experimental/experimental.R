@@ -23,7 +23,7 @@ data <- flametree_grow(
 
 flametree <- data %>%
   flametree_plot(
-    background = "#1e3c42",
+    background = "#1D4246",
     palette = "scico::bamako"
   )
 
