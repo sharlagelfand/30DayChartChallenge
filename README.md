@@ -16,3 +16,7 @@
 ## Day 6: Experimental
 
 <img src="06-experimental/experimental.png" title="A randomly generated tree with thousands of branches. The trunk of the tree starts on the right and bends heavily to the left. it is coloured in various shades of teal to light green to light yellow with a dark teal background" alt="A randomly generated tree with thousands of branches. The trunk of the tree starts on the right and bends heavily to the left. it is coloured in various shades of teal to light green to light yellow with a dark teal background" width="1800" />
+
+## Day 7: Physical
+
+<img src="07-physical/physical.png" title="A scene of randomly generated trees in various shades of teal and green formed around a light desaturated green sphere. the background is a blurry scene with grass and trees in the background and the sun setting" alt="A scene of randomly generated trees in various shades of teal and green formed around a light desaturated green sphere. the background is a blurry scene with grass and trees in the background and the sun setting" width="1200" />

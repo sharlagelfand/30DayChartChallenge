@@ -34,3 +34,9 @@ knitr::include_graphics("05-slope/slope.jpg")
 ```{r, fig.alt = "A randomly generated tree with thousands of branches. The trunk of the tree starts on the right and bends heavily to the left. it is coloured in various shades of teal to light green to light yellow with a dark teal background"}
 knitr::include_graphics("06-experimental/experimental.png")
 ```
+
+## Day 7: Physical
+
+```{r, fig.alt = "A scene of randomly generated trees in various shades of teal and green formed around a light desaturated green sphere. the background is a blurry scene with grass and trees in the background and the sun setting"}
+knitr::include_graphics("07-physical/physical.png")
+```
