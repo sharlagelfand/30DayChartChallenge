@@ -40,3 +40,10 @@ knitr::include_graphics("06-experimental/experimental.png")
 ```{r, fig.alt = "A scene of randomly generated trees in various shades of teal and green formed around a light desaturated green sphere. the background is a blurry scene with grass and trees in the background and the sun setting"}
 knitr::include_graphics("07-physical/physical.png")
 ```
+
+## Day 8: Animals
+
+```{r, fig.alt = 'A data visualization depicting the top 3 most popular dog names in Toronto from 2012 to 2020. The top 3 dogs are on a raised podium similar to ones used in sports, with the first place in the middle on the highest podium second place to the left on a slightly shorter one and third place on the right on an even shorter one. there is one set of podiums for each year, laid out in 2 rows. the dogs are depicted by different icons each dogs icon is different and coloured differently, in orange, red, purple, blue, and brown. the first panel is a legend that depicts this, the caption reads "Charlie has consistently been the most popular name since 2012. Max held strong in second place until 2016, when it was overtaken by Bella. Luna suddenly took over 2nd place in 2020, despite never appearing in the top 3 before!"'}
+knitr::include_graphics("08-animals/animals.png")
+```
+

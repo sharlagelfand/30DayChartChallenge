@@ -117,7 +117,7 @@ p <- wrap_plots(c(
 ), nrow = 2) +
   plot_annotation(
     title = "Most popular dog names in Toronto",
-    subtitle = str_wrap("<b style='color:#ED6A5A;'>Charlie</b> has consistently been the most popular name since 2012. <b style='color:#DA3E52'>Max</b> held strong in second place until 2016, when it was<br>overtaken by <b style='color:#2C3D55'>Bella</b>. <b style='color:#4C061D'>Luna</b> suddenly took over 2nd place in 2020, despite never appearing in the top 3 before!", width = 100),
+    subtitle = str_wrap("<b style='color:#ED6A5A;'>Charlie</b> has consistently been the most popular name since 2012. <b style='color:#DA3E52'>Max</b> held strong in second place until 2016, when it was<br>overtaken by <b style='color:#2C3D55'>Bella</b>. <b style='color:#4C061D'>Luna</b> suddenly took over second place in 2020, despite never appearing in the top 3 before!", width = 100),
     caption = "Data: Open Data Toronto | Viz: Sharla Gelfand | Icons: svgrepo.com/collection/woof-woof",
     theme = theme_minimal(16, base_family = font) + theme(
       plot.title = element_text(hjust = 0.5, face = "bold", size = 30),
