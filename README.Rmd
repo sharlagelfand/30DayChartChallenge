@@ -47,3 +47,8 @@ knitr::include_graphics("07-physical/physical.png")
 knitr::include_graphics("08-animals/animals.png")
 ```
 
+## Day 9: Statistics
+
+```{r, fig.alt = 'An image of two statistical distributions. The one on the left is a normal distribution coloured in orange with a serious face. the one on the right is a bimodal distribution coloured in blue with a silly face. the orange one is saying to the other one "you\'re not normal"'}
+knitr::include_graphics("09-statistics/statistics.png")
+```
