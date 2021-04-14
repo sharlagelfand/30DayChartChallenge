@@ -52,3 +52,9 @@ knitr::include_graphics("08-animals/animals.png")
 ```{r, fig.alt = 'An image of two statistical distributions. The one on the left is a normal distribution coloured in orange with a serious face. the one on the right is a bimodal distribution coloured in blue with a silly face. the orange one is saying to the other one "you\'re not normal"'}
 knitr::include_graphics("09-statistics/statistics.png")
 ```
+
+## Day 13: Correlation
+
+```{r, fig.alt = 'A hand drawn line chart titled "#30DayChartChallenge be like" on the x axis is "number of failed viz attempts" on the y axis is "motivation to finish and actually post something". the correlation is negative'}
+knitr::include_graphics("13-correlation/correlation.jpg")
+```

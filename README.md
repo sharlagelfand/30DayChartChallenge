@@ -28,3 +28,7 @@
 ## Day 9: Statistics
 
 <img src="09-statistics/statistics.png" title="An image of two statistical distributions. The one on the left is a normal distribution coloured in orange with a serious face. the one on the right is a bimodal distribution coloured in blue with a silly face. the orange one is saying to the other one &quot;you're not normal&quot;" alt="An image of two statistical distributions. The one on the left is a normal distribution coloured in orange with a serious face. the one on the right is a bimodal distribution coloured in blue with a silly face. the orange one is saying to the other one &quot;you're not normal&quot;" width="4500" />
+
+## Day 13: Correlation
+
+<img src="13-correlation/correlation.jpg" title="A hand drawn line chart titled &quot;#30DayChartChallenge be like&quot; on the x axis is &quot;number of failed viz attempts&quot; on the y axis is &quot;motivation to finish and actually post something&quot;. the correlation is negative" alt="A hand drawn line chart titled &quot;#30DayChartChallenge be like&quot; on the x axis is &quot;number of failed viz attempts&quot; on the y axis is &quot;motivation to finish and actually post something&quot;. the correlation is negative" width="2386" />
