@@ -58,3 +58,9 @@ knitr::include_graphics("09-statistics/statistics.png")
 ```{r, fig.alt = 'A hand drawn line chart titled "#30DayChartChallenge be like" on the x axis is "number of failed viz attempts" on the y axis is "motivation to finish and actually post something". the correlation is negative'}
 knitr::include_graphics("13-correlation/correlation.jpg")
 ```
+
+## Day 14: Space
+
+```{r, fig.alt = "A data visualization titled 'star trek: the next generation watching history'. each season of the show is on the y axis with dates on the x axis. there is a line segment for each season showing when i started and finished watching that season. the shorted are seasons 1 and 2, and the longest are 4 and 5. season 7 is still being watched. each season starts the day the previous season ended! the plot is colored in dark purple with bright pink blue and orange and uses a star trek style font. the data is here: https://raw.githubusercontent.com/sharlagelfand/30DayChartChallenge/main/14-space/data.csv"}
+knitr::include_graphics("14-space/space.png")
+```
